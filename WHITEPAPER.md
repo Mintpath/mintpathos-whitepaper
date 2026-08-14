@@ -2,8 +2,9 @@
 
 ## Governed Autonomous AI Infrastructure
 
-**Public Architecture Whitepaper**
-**Version 2.0 · August 2026**
+**Public Architecture Whitepaper**  
+**Version 2.0 · August 2026**  
+**Patent Pending**
 
 Mintpath LLC
 
